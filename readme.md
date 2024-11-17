@@ -1,4 +1,4 @@
-# 프로젝트 이름
+# Ear Therapy - AI model
 
 이 프로젝트는 Python 3.6.8, TensorFlow 1.14, Keras 2.2.4, OpenCV를 사용하여 구성되었습니다. 머신러닝 및 이미지 처리 기능을 포함하고 있습니다.
 
